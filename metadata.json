@@ -1,0 +1,6 @@
+{
+  "name": "ClimateShield",
+  "description": "Urban Climate Risk, Heat & Flood Resilience Platform for Smart Cities and Enterprise Infrastructure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
